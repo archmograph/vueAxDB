@@ -31,15 +31,15 @@
       "organizer": "Carey Wales"
     },
     {
-      "id": 4698566,
-      "category": 'Networking',
-      "title": 'Be Nice!',
-      "description": 'How to build a connection with strangers.',
-      "location": 'Baltimore',
-      "date": 'July 15, 2022',
-      "time": '2:30',
-      "petsAllowed": false,
-      "organizer": 'Felix Gilbert'
+      "id": "4698566",
+      "category": "Networking",
+      "title": "Be Nice! (An Xcell mindset)",
+      "description": "How to build a connection with strangers.",
+      "location": "Baltimore",
+      "date": "July 15, 2022",
+      "time": "2:30",
+      "petsAllowed": "false",
+      "organizer": "Felix Gilbert"
     }
   ]
 }
